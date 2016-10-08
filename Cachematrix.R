@@ -1,8 +1,5 @@
 ## Caching the inverse of a matrix
-## 
-
-## Creating a vector with four functions that set and get a matrix and its inverse
-
+## Creating a vector with four functions that set and get a matrix and its inverse 
 makeCacheMatrix <- function(x = matrix()) {
         m<-NULL
         set<-function(y){
